@@ -8,10 +8,10 @@ Amazon Elastic File System (Amazon EFS) provides a simple, scalable, fully manag
 
 Since you have understood what are these , there are certain pre-requisites for and they are:
 
-AWS Account, to create an account go to: https://aws.amazon.com
-AWS CLI, to download go to: https://kubernetes.io/docs/tasks/tools/install-kubectl/
-eksctl , to download go to: https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html
-kubectl, to download go to: https://kubernetes.io/docs/tasks/tools/install-kubectl/
+1. AWS Account, to create an account go to: https://aws.amazon.com
+2. AWS CLI, to download go to: https://kubernetes.io/docs/tasks/tools/install-kubectl/
+3. eksctl , to download go to: https://docs.aws.amazon.com/eks/latest/userguide/getting-started-eksctl.html
+4 .kubectl, to download go to: https://kubernetes.io/docs/tasks/tools/install-kubectl/
 # for more information please check my linkedin article
    link:-https://www.linkedin.com/posts/shyamendra-sengar-587599158_vimaldaga-cloudcomputing-cloudservices-activity-6687820062600019968-PTe6
  # Author
